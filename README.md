@@ -8,6 +8,14 @@
 
 ---
 
+## 📋 Sommaire
+- [Présentation](#présentation)
+- [Fonctionnalités](#fonctionnalités)
+- [Technologies](#technologies)
+- [Auteur](#auteur)
+
+---
+
 ## 🎯 Présentation
 Site vitrine présentant Amsterdam sous toutes ses facettes : hôtels, restaurants, monuments et culture. Réalisé dans le cadre du projet NSI (Numérique et Sciences Informatiques).
 
@@ -22,5 +30,17 @@ Site vitrine présentant Amsterdam sous toutes ses facettes : hôtels, restauran
 
 ---
 
-## 🛠️ Technologies | HTML5, CSS3, JavaScript, FontAwesome |
+## 🛠️ Technologies
+
+| Technologie | Rôle |
+|-------------|------|
+| HTML5 | Structure |
+| CSS3 | Design et mise en page |
+| JavaScript | Interactivité |
+| FontAwesome | Icônes |
+
 ---
+
+<div align="center">
+  <sub>Fait avec ❤️ par <a href="https://github.com/MattiaPARRINELLO">MattiaPARRINELLO</a></sub>
+</div>
